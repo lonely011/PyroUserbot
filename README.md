@@ -1,4 +1,4 @@
-## Userbot (SeanXOffc)
+## Userbot
 
 Panduan lengkap menjalankan bot ada di **CARA-RUN.md**.
 
