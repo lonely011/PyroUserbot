@@ -1,4 +1,4 @@
-# Cara Run PyroUbot (SeanXOffc)
+# Cara Run PyroUbot 
 
 Dokumen ini menjelaskan cara menjalankan **PyroUbot** dari repo ini.
 
@@ -79,4 +79,4 @@ screen -r ubot
 ---
 
 ### Branding
-- Owner/author di menu sudah diset ke: **SeanXOffc**
+- Owner/author di menu sudah diset ke: **yyb67**
